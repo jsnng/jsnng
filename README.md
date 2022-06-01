@@ -6,5 +6,4 @@ You can click the Preview link to take a look at your changes.
 # Hi - I'm Jason! 👋
 
 - Electrical & Electronics Engineering Student.
-- Creating circuits using HDLs.
 
