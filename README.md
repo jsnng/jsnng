@@ -7,5 +7,4 @@ You can click the Preview link to take a look at your changes.
 
 - Electrical & Electronics Engineering Student.
 - Learning Verilog using [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page).
-- Comsumer of copius amounts of coffee ☕
 
